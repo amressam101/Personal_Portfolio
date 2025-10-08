@@ -17,3 +17,7 @@ It showcases my projects, skills, and contact information in a simple and clean 
 ## Purpose
 
 This project was created to practice and demonstrate **HTML structure** and **semantic elements**.
+
+## 🌐 Live Demo
+
+[View Portfolio on GitHub Pages](https://amressam101.github.io/Personal_Portfolio/)
