@@ -21,3 +21,5 @@ This project was created to practice and demonstrate **HTML structure** and **se
 ## 🌐 Live Demo
 
 [View Portfolio on GitHub Pages](https://amressam101.github.io/Personal_Portfolio/)
+
+### 👨‍💻 Developed by [Amr Essam Abdel Halim](https://github.com/amressam101)
